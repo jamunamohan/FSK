@@ -1,7 +1,8 @@
 # FSK
 # Aim
 Write a Python program for the modulation and demodulation of FSK.
-# Tools required
+# Tools required:
+
 # Program
 ```
 Attach the program
